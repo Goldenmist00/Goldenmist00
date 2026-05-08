@@ -1,75 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Atharva%20Sarwade&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Builder&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+actually+ship.;RAG+pipelines+%E2%86%92+production.;From+inference+to+interface.;Full-stack+%2B+ML+%3D+%E2%9C%A8)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-atharva--sarwade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-sarwade)
-[![Gmail](https://img.shields.io/badge/Gmail-atharvasarwade0@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvasarwade0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Goldenmist00-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Goldenmist00)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%E2%80%94+Full+Stack+Builder;RAG+pipelines+%E2%86%92+production+systems;From+model+weights+to+user+interfaces;Open+to+SWE+%2F+AI+internships)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🛠️ Skills
+## 💻 Tech Stack
 
-<div align="center">
-
-### ⬡ Languages
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,c&theme=dark" />
-
----
-
-### ⬡ Frontend
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter&theme=dark" />
-
----
-
-### ⬡ Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,express&theme=dark" />
-
----
-
-### ⬡ AI / ML
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-
-&nbsp;
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-A78BFA?style=for-the-badge&logoColor=white)
-
----
-
-### ⬡ Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase&theme=dark" />
-
-&nbsp;
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
-
----
-
-### ⬡ DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,github,vercel,githubactions&theme=dark" />
-
-&nbsp;
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="130">
+      <b>Languages</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+      <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+      <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI / ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ONNX-%23005CED.svg?style=for-the-badge&logo=onnx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+      <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -77,21 +78,32 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Goldenmist00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenmist00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<img height="160" src="https://github-readme-stats.shion.dev/api?username=Goldenmist00&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Goldenmist00&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Goldenmist00&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" />
+<img src="https://streak-stats.demolab.com/?user=Goldenmist00&theme=dark&hide_border=false"/>
 
 </div>
 
 ---
 
+## 📈 Contribution Graph
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+[![Atharva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Goldenmist00&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-*Open to internships in Software Engineering & AI/ML — reach out anytime.*
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Goldenmist00&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=7)
 
 </div>
